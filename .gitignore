@@ -1,0 +1,5 @@
+# Estoy ignorando los paquetes node_modules
+node_modules
+# Editor
+.editorconfig
+.vscode/
